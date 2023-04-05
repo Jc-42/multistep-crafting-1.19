@@ -1,0 +1,15 @@
+package net.julian.multistepcrafting;
+
+import net.fabricmc.api.ModInitializer;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+
+public class MultistepCrafting implements ModInitializer {
+	public static final String MOD_ID = "multistepctafting";
+	public static final Logger LOGGER = LoggerFactory.getLogger(MOD_ID);
+
+	@Override
+	public void onInitialize() {
+
+	}
+}
